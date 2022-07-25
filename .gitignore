@@ -1,0 +1,4 @@
+# IDE
+
+.ipynb_checkpoints
+pretrained_models/checkpoints/*

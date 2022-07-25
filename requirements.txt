@@ -1,0 +1,15 @@
+keyring
+readme-renderer
+requests-toolbelt
+rfc3986
+rich
+contextlib2
+Cython
+jupyter
+lxml
+Pillow
+tensorflow
+cycler
+fonttools
+kiwisolver
+pillow
