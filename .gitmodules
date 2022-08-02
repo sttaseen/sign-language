@@ -1,0 +1,3 @@
+[submodule "custom-object-detection/custom-object-detection/models"]
+	path = custom-object-detection/custom-object-detection/models
+	url = https://github.com/tensorflow/models.git

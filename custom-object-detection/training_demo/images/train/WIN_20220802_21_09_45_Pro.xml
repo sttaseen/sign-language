@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>WIN_20220802_21_09_45_Pro.jpg</filename>
+	<path>C:\Users\sttas\OneDrive\Documents\sign-language\training_demo\images\train\WIN_20220802_21_09_45_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>167</ymin>
+			<xmax>436</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>
