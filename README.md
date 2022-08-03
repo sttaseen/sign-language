@@ -1,6 +1,8 @@
 # Sign Object Detection Prototype
 
-There are many sign language detector concepts using object detection, however I didn't find one that created sentences from the words detected and displayed them as subtitles like in a movie. So, I tried to make one and this is it.
+There are many sign language detector concepts using object detection, however I didn't find one that created sentences from the words detected and displayed them as subtitles like in a movie.
+
+So, I tried to make one and this is it.
 
 <p align="center">
   <img 
