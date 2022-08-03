@@ -2,7 +2,13 @@
 
 There are many sign language detector concepts using object detection, however I didn't find one that created sentences from the words detected and displayed them as subtitles like in a movie. So, I tried to make one and this is it.
 
-<img src="demo.gif" width="250" height="250"/>
+<p align="center">
+  <img 
+    width="40%"
+    height="40%"
+    src="demo.gif"
+  >
+</p>
 
 ## Description
 
